@@ -1,10 +1,14 @@
 # The Payne
 Tools for interpolating spectral models with neural networks.
+It is just for personal test, please refer to the original source: https://github.com/tingyuansen/The_Payne
 
 ## Installation
 Clone this repository and run code from the base directory.
 ```
 python setup.py install
+
+pip install -U git+git://github.com/yutaozhou/The_Payne
+
 ````
 
 The [tutorial](https://github.com/tingyuansen/The_Payne/blob/master/tutorial.ipynb) shows some simple use cases.
